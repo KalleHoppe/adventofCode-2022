@@ -1,0 +1,15 @@
+C:\Repos\advent22\1\b\advent22-1b\bin\Debug\net6.0\advent22-1b.exe
+C:\Repos\advent22\1\b\advent22-1b\bin\Debug\net6.0\advent22-1b.deps.json
+C:\Repos\advent22\1\b\advent22-1b\bin\Debug\net6.0\advent22-1b.runtimeconfig.json
+C:\Repos\advent22\1\b\advent22-1b\bin\Debug\net6.0\advent22-1b.dll
+C:\Repos\advent22\1\b\advent22-1b\bin\Debug\net6.0\advent22-1b.pdb
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.csproj.AssemblyReference.cache
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.AssemblyInfoInputs.cache
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.AssemblyInfo.cs
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.csproj.CoreCompileInputs.cache
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.dll
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\refint\advent22-1b.dll
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.pdb
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\advent22-1b.genruntimeconfig.cache
+C:\Repos\advent22\1\b\advent22-1b\obj\Debug\net6.0\ref\advent22-1b.dll

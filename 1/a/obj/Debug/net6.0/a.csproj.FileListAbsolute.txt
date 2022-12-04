@@ -1,0 +1,15 @@
+C:\Repos\advent22\1\a\bin\Debug\net6.0\a.exe
+C:\Repos\advent22\1\a\bin\Debug\net6.0\a.deps.json
+C:\Repos\advent22\1\a\bin\Debug\net6.0\a.runtimeconfig.json
+C:\Repos\advent22\1\a\bin\Debug\net6.0\a.dll
+C:\Repos\advent22\1\a\bin\Debug\net6.0\a.pdb
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.csproj.AssemblyReference.cache
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.AssemblyInfoInputs.cache
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.AssemblyInfo.cs
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.csproj.CoreCompileInputs.cache
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.dll
+C:\Repos\advent22\1\a\obj\Debug\net6.0\refint\a.dll
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.pdb
+C:\Repos\advent22\1\a\obj\Debug\net6.0\a.genruntimeconfig.cache
+C:\Repos\advent22\1\a\obj\Debug\net6.0\ref\a.dll
