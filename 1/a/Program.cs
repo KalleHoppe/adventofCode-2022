@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-var filePath = @"C:\Repos\advent22\1\a\input.txt";
+var filePath = @".\input.txt";
 var mostCals = 0;
 var elfNo = 0;
 var currElf = 0;

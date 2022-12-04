@@ -36,7 +36,7 @@ def FillSection(section):
     return secLenght
 
 if __name__ == "__main__":
-    with open('/workspaces/2022/4/input.txt') as f:
+    with open('/workspaces/adventofCode-2022/4/input.txt') as f:
         lines = f.read().splitlines()
         Part1(lines)
         Part2(lines)

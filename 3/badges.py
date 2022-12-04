@@ -1,4 +1,4 @@
-pInput = open("/workspaces/2022/3/input.txt")
+pInput = open("/workspaces/adventofCode-2022/3/input.txt")
 lines = pInput.read().splitlines()
 duplicates = []
 letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',

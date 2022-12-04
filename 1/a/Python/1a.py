@@ -1,5 +1,5 @@
-input = open("C:\\Repos\\advent22\\1\\a\\Python\\input.txt","r")
-lines = input.readlines()
+data = open("/workspaces/adventofCode-2022/1/a/Pythonz/input.txt","r")
+lines = data.readlines()
 
 mostCals = 0
 currSum = 0

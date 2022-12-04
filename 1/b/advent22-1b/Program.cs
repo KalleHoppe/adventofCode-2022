@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Advent of code Day 1 b");
-var filePath = @"C:\Repos\advent22\1\b\advent22-1b\input.txt";
+var filePath = @"./input.txt";
 var allCals = new List<int>();
 var currSum = 0;
 

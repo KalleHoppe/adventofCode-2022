@@ -17,7 +17,7 @@
 #Tie 3
 #loss 0
 
-data = open("C:\\Repos\\advent22\\2\\Phyton\\a\\input.txt","r")
+data = open("/workspaces/adventofCode-2022/2/input.txt","r")
 lines = data.read().splitlines()
 totalScore = 0
 for line in lines:
