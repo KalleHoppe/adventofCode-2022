@@ -60,7 +60,7 @@ if __name__ == "__main__":
         ['Z','B','P','N'],
         ['W','P','J']
     ]
-    f = open('C:\\Repos\\adventofCode-2022\\5\\orders.txt')
+    f = open('/workspaces/adventofCode-2022/5/orders.txt')
     orders = f.read().splitlines()
     # stack1 = stacks.copy()
     # stack2 = stacks.copy()
