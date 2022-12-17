@@ -2,14 +2,19 @@
 def Part1(lines):
     #items, op, test, tr, fa = lines.split('/n')
     monkey = lines.split('\n\n')
-    items = monkey[1].split(':')[1].split(', ')
-    op = monkey[2].split
-    test = monkey[3][-1]
-    
-    print(monkey[0])
-    print("items:" +items)
-    print(op)
-    print(test)
+    m,items, op, test, true, false = monkey[0].split('\n')
+    ITEMS = [eval(i) for i in items.split(':')[1].replace(' ','').split(',')]
+    OP = op.split('=')[-1]
+    TEST = test.split(' ')[-1]
+    TRUE = true.split(' ')[-1]
+    FALSE = false.split(' ')[-1]
+
+    print(m)
+    print(ITEMS)
+    print(OP)
+    print(TEST)
+    print(TRUE)
+    print(FALSE)
 
 
 if __name__ == "__main__":
