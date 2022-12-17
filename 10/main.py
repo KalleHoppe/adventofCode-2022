@@ -47,7 +47,7 @@ def Part2(instructions):
             print()
 
 if __name__ == "__main__":
-    f = open('C:/Repos/adventofCode-2022/10/input.txt')
+    f = open('/workspaces/adventofCode-2022/10/input.txt')
     instructions = f.read().splitlines()
     Part1(instructions)
     Part2(instructions)

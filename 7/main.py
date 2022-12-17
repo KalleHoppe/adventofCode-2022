@@ -21,7 +21,7 @@ def Part1(files):
 
 
 if __name__ == "__main__":
-    f = open('C:/Repos/adventofCode-2022/7/input.txt')
+    f = open('/workspaces/adventofCode-2022/7/input.txt')
     files = f.read().splitlines()
     Part1(files)
     #Part2(trees)

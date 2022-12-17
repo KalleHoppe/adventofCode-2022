@@ -45,7 +45,7 @@ def Part2(trees):
     print(f"The answer is: {result}")
 
 if __name__ == "__main__":
-    f = open('C:/Repos/adventofCode-2022/8/input.txt')
+    f = open('/workspaces/adventofCode-2022/8/input.txt')
     trees = f.read().splitlines()
     Part1(trees)
     Part2(trees)
