@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm/nMN1/OG6po2JtY9A69pfgKcGWeoC7EZxem/ZiSO99e8ETRMNfhSgth9Mv935PG/ciFsrWArztvCbgt3K98A==",
+  "dgSpecHash": "dO/ncRjFXTPXPA2xEPDYZ7fRJAL+kapUKT9lAX+w/Ho9YWnQ+MJl8l2FdZhxwr00GjWem2H4n1+JY3PQPAr+WQ==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\advent22\\1\\a\\a.csproj",
+  "projectFilePath": "E:\\Projekt\\adventofCode-2022\\1\\a\\a.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
